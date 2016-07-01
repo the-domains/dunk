@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Dunk]]></title>
         <description><![CDATA[Dunk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dunk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 06:32:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jul 2016 12:22:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dunk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hmmm]]></title>
+            <description><![CDATA[<article><h1>Hmmm</h1><p>Testing post</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f5d1dc5dd58221f97efaf9e89d78a96/croprotate.jpg?cropheight=673&cropwidth=1600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd9298a7a-7716-4e4a-8b03-7482ea0fc37d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9298a7a-7716-4e4a-8b03-7482ea0fc37d.jpg</link>
+            <guid isPermaLink="false">a81a3518-2428-4248-bc42-17245763e88f</guid>
+            <pubDate>Fri, 01 Jul 2016 12:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello]]></title>
             <description><![CDATA[<article><h1>Hello</h1><p>Post 1 is now live</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c350467b-9e18-453d-b2be-28e329d5a05b.jpg"></article>]]></description>
