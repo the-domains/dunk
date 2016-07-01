@@ -1,0 +1,14 @@
+layout_spectrum: 0.6997852
+color:
+  saturation: 0.7890549
+  lightness: 0.5357954
+  brandStrength: 0.5305864
+  rhythmicContrast: 0.08515851
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.545771
+name: Dunk
