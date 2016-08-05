@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.7890549
+  saturation: 0.2701396
   brandStrength: 0.5305864
-  rhythmicContrast: 0.08515851
+  lightness: 0.6546724
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  lightness: 0.5357954
+  rhythmicContrast: 0.1680988
 typography_spectrum: 0.2658432
-layout_spectrum: 0.05746506
+layout_spectrum: 0.9274973
 name: Dunk
